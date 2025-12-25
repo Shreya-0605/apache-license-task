@@ -1,0 +1,20 @@
+Curl Command:
+curl https://api.github.com/repos/Shreya-0605/apache-license-task/pulls/1
+
+Terminal Output:
+{
+  "user": {
+    "login": "Shreya-0605"
+  },
+  "head": {
+    "repo": {
+      "full_name": "Shreya-0605/apache-license-task"
+    },
+    "ref": "bug-fix-typo"
+  },
+  "base": {
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
