@@ -1,0 +1,11 @@
+Curl Command Used:
+curl https://api.github.com/repos/Shreya-0605/mcino-Introduction-to-Git-and-GitHub
+
+Terminal Output:
+{
+  "full_name": "Shreya-0605/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
